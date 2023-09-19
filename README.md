@@ -27,6 +27,7 @@ VERACITY: This factor has to do with how reliable and high-quality the data is. 
 VARIABILITY: It might be difficult to smoothly integrate and evaluate data since it can be inconsistent or change in format and organization over time.
 
 VALUE: Big Data should ultimately offer organizations useful insights and advantages. Better decision-making and greater business outcomes may result from the extraction of insightful information from this data.
+source:GeeksforGeeks. (2023). 6V s of Big Data. GeeksforGeeks. https://www.geeksforgeeks.org/5-vs-of-big-data/
 
 ## Phases of Big Data analysis
 
@@ -79,6 +80,7 @@ This stage ensures that the findings are put to use.
 Continuous Monitoring and Maintenance: 
 To ensure data quality, model performance, and system stability, Big Data systems require ongoing monitoring.
 As new data becomes available or business objectives change, updates and refinements may be required.
+source: 8 steps in the data life Cycle | HBS Online. (2021, February 2). Business Insights Blog. https://online.hbs.edu/blog/post/data-life-cycle
 
 ## Challenges in Big Data
 
@@ -93,3 +95,4 @@ Big data analytics and machine learning procedures rely on clean, correct data t
 
 4. Choosing the Best Big Data Tools:
 Fortunately, when a company decides to begin dealing with data, there is no shortage of tools to assist them. At the same time, the abundance of possibilities is a challenge. Big data software comes in a variety of flavors, and their capabilities frequently overlap. How do you know you're picking the correct big data tools?
+source:Contributor, S. M.-. G. (2022, October 10). Top 8 challenges of big data and how to solve them. Capterra. https://www.capterra.com/resources/challenges-of-big-data/
